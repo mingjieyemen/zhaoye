@@ -52,215 +52,227 @@
 {"key":"夸搜","name":"😻夸搜┃夸父","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"Aliso","name":"🙀盘搜┃阿狸","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
- {"key":"csp_哔哩全集","name":"🐞哔哩全集","type":3,"viewType": 1,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://9xi4o.tk/sub/Bili/哔哩全集.json"},
-{"key":"csp_音乐现场","name":"🐞音乐现场","type":3,"viewType": 1,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://9xi4o.tk/sub/Bili/音乐现场.json"},
-{"key":"csp_软件教程","name":"🐞软件教程","type":3,"viewType": 1,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://9xi4o.tk/sub/Bili/软件教程.json"},
-{"key":"csp_美食天地","name":"🐞美食天地","type":3,"viewType": 1,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://9xi4o.tk/sub/Bili/美食天地.json"},
-{"key":"csp_棋牌娱乐","name":"🐞棋牌娱乐","type":3,"viewType": 1,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://9xi4o.tk/sub/Bili/棋牌娱乐.json"},
-{"key":"csp_戏曲合集","name":"🐞戏曲合集","type":3,"viewType": 1,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://9xi4o.tk/sub/Bili/戏曲合集.json"},
-{"key":"csp_学习园地","name":"🐞学习园地","type":3,"viewType": 1,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://9xi4o.tk/sub/Bili/学习园地.json"},
-{"key":"csp_女团热舞","name":"🐞女团热舞","type":3,"viewType": 1,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://9xi4o.tk/sub/Bili/女团热舞.json"},
-{"key":"csp_体育赛事","name":"🐞体育赛事","type":3,"viewType": 1,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://9xi4o.tk/sub/Bili/体育赛事.json"},
-{"key":"csp_儿童乐园","name":"🐞儿童乐园","type":3,"viewType": 1,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://9xi4o.tk/sub/Bili/儿童乐园.json"},
+ 
 {
       "key": "红牛资源",
       "name": "❤红牛资源(切)",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-        "playUrl": "", 
-   "searchable": 1,
-   "viewType": 1,
-   "quickSearch": 1, 
-   "filterable": 1
+      "playUrl": "", 
+      "searchable": 1,
+      "viewType": 1,
+      "quickSearch": 1, 
+      "filterable": 1
     },
 {
       "key": "光速资源",
       "name": "❤光速资源(切)",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-   "viewType": 1,
-   "quickSearch": 1, 
-   "filterable": 1
+      "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
-{"key":"CK资源",
-"name":"CK资源",
-"type":1,
-"api":"https://ckzy.me/api.php/provide/vod/",
-"searchable":1,
-"quickSearch":1,
-"filterable":1
-},
+{
+     "key":"CK资源",
+     "name":"CK资源",
+     "type":1,
+     "api":"https://ckzy.me/api.php/provide/vod/",
+    "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
+}，
 {
       "key": "dadiapi.com",
       "name": "❤大地源",
       "type": 0,"viewType": 1,
       "api": "http://dadiapi.com/api.php",
-      "searchable":1,
-"quickSearch":1,
-"filterable":1
+      "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
 {
       "key": "fhapi9.com",
       "name": "❤番号源",
       "type": 1,"viewType": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
-      "searchable":1,
-"quickSearch":1,
-"filterable":1
+      "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
  {
       "key": "api.maozyapi.com",
       "name": "❤猫咪源",
       "type": 1,"viewType": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "searchable":1,
-"quickSearch":1,
-"filterable":1
+      "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
 {
       "key": "msnii.com",
       "name": "❤MSNII",
       "type": 0,"viewType": 1,
       "api": "https://www.msnii.com/api/xml.php",
-      "searchable":1,
-"quickSearch":1,
-"filterable":1
+      "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
 {
       "key": "api.sexnguon.com",
       "name": "❤色南国",
       "type": 1,"viewType": 1,
       "api": "https://api.sexnguon.com/api.php/provide/vod/",
-      "searchable":1,
-"quickSearch":1,
-"filterable":1
+     "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
 {
       "key": "kxgav.com",
       "name": "❤kxgAV",
       "type": 0,"viewType": 1,
       "api": "https://www.kxgav.com/api/xml.php",
-      "searchable":1,
-"quickSearch":1,
-"filterable":1
+      "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
 {
       "key": "xrbsp.com",
       "name": "❤日本源",
       "type": 0,"viewType": 1,
       "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable":1,
-"quickSearch":1,
-"filterable":1
+      "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
 {
       "key": "lbapiby.com",
       "name": "❤福利源",
       "type": 0,"viewType": 1,
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
-      "searchable":1,
-"quickSearch":1,
-"filterable":1
+     "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
 {
       "key": "gdlsp.com",
       "name": "❤老色P",
       "type": 0,"viewType": 1,
       "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable":1,
-"quickSearch":1,
-"filterable":1
+      "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
 {
       "key":"❤乐播资源",
       "name":"❤乐播资源",
       "type":0,"viewType": 1,
       "api":"https://lbapi9.com/api.php/provide/vod/at/xml",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1
+      "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
     {
       "key":"❤色南国资源",
       "name":"❤色南国资源",
       "type":1,"viewType": 1,
       "api":"https://api.sexnguon.com/api.php/provide/vod/",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1
+     "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
  {
        "key":"❤AIvin",
        "name":"❤AIvin",
        "type":0,"viewType": 1,
        "api":"http://lbapiby.com/api.php/provide/vod/at/xml",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable": 1
+        "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
 {
       "key":"❤美少女资源",
       "name":"❤美少女资源",
       "type":0,"viewType": 1,
       "api":"https://www.msnii.com/api/xml.php",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1
+     "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
     {
       "key":"❤淫水机资源",
       "name":"❤淫水机资源",
       "type":0,"viewType": 1,
       "api":"https://www.xrbsp.com/api/xml.php",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1
+      "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
     {
       "key":"❤香奶儿资源",
       "name":"❤香奶儿资源",
       "type":0,"viewType": 1,
       "api":"https://www.gdlsp.com/api/xml.php",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1
+      "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
 {
       "key":"❤白嫖资源",
       "name":"❤白嫖资源",
       "type":0,"viewType": 1,
       "api":"https://www.kxgav.com/api/xml.php",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1
+     "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
     {
       "key":"❤大地资源",
       "name":"❤大地资源",
       "type":0,"viewType": 1,
       "api":"https://dadiapi.com/api.php",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1
+      "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
 { 
        "key":"❤黄AV资源",
        "name":"❤黄AV资源",
        "type":0,"viewType": 1,
        "api":"https://www.pgxdy.com/api/xml.php",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable": 1
+       "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
 {
       "key":"❤番号资源",
       "name":"❤番号资源",
       "type":1,"viewType": 1,
       "api":"http://fhapi9.com/api.php/provide/vod/",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
+      "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
  {
       "key": "❤色猫资源",
@@ -268,63 +280,28 @@
       "type": 1,
       "viewType": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "playurl": ""
     },
 
-    {"key": "大地专场",
-"name": "❤大地采集",
-"type": 1,
-"viewType": 1,
-"api": "https://dadiapi.com/api.php",
-"playUrl": "",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"categories": [    
-"日韩无码","强奸乱伦","欧美精品","国产精品","人妻系列","中文字幕","动漫精品","伦理影片","日韩精品","制服诱惑","自拍偷拍","AV明星","3P合辑","巨乳系列","颜射系列","口交视频","自慰系列","SM重味","教师学生","大秀视频","AV明星1"]},
- {
-            "key": "乐播",
-            "name": "️❤❤乐播采集",
-            "type": 1,
-            "api": "https://lbapi9.com/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,"viewType": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "亚洲情色",
-                "国产主播",
-                "国产自拍",
-                "无码专区",
-                "欧美性爱",
-                "熟女人妻",
-                "强奸乱伦",
-                "巨乳美乳",
-                "中文字幕",
-                "制服诱惑",
-                "女同性恋",
-                "卡通动画",
-                "视频伦理",
-                "少女萝莉",
-                "重口色情",
-                "人兽性交"
-            ]
-        },
-{"key": "155专场",
-"name": "❤155采集",
-"type": 1,
-"api": "https://155api.com/api.php/provide/vod/",
-"playUrl": "",
-"searchable": 1,
-"viewType": 1,
-"quickSearch": 1,
-"filterable": 1,
-"categories": [    
-"无码专区","麻豆传媒","制服诱惑","三级伦理","AI换脸","中文字幕","卡通动漫","欧美系列","美女主播","国产自拍","熟女人妻","萝莉少女","女同性爱","多人群交","美乳巨乳","强奸乱伦","抖音视频","韩国主播","网红头条","网爆黑料","欧美无码","女优明星","SM调教","AV解说"
-]
-},
+    {
+     "key": "大地专场",
+     "name": "❤大地采集",
+     "type": 1,
+     "viewType": 1,
+     "api": "https://dadiapi.com/api.php",
+     "playUrl": "",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "categories": [
+
+"日韩无码","强奸乱伦","欧美精品","国产精品","人妻系列","中文字幕","动漫精品","伦理影片","日韩精品","制服诱惑","自拍偷拍","AV明星","3P合辑","巨乳系列","颜射系列","口交视频","自慰系列","SM重味","教师学生","大秀视频","AV明星1"
+         ]
+     }，
+
 {
             "key": "色猫",
             "name": "❤色猫采集",
@@ -372,12 +349,12 @@
       "name": "❤91麻豆",
       "type": 1,      
       "api": 
-"http://91md.me/api.php/provide/vod/",
+       "http://91md.me/api.php/provide/vod/",
       "playUrl": "", 
-   "searchable": 1, 
-   "quickSearch": 1, 
-   "filterable": 1, 
-   "categories": [
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "categories": [
 "麻豆视频", "91制片", "天美传媒", "蜜桃传媒", "皇家华人", "星空传媒", "精东传媒", "乐播传媒", "成人头条", "乌鸦传媒", "兔子先生", "杏吧传媒", "玩偶姐姐", "迷你传媒", "大象传媒", "开心鬼", "PsychoPorm", "糖心VIog", "萝莉社", "性世界"
      ]
  },
