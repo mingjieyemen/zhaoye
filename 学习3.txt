@@ -116,7 +116,7 @@
    "categories": [ 
    "亚洲无码", "亚洲有码", "欧美情色", "中文字幕", "动漫卡通", "美女主播", "人妻熟女", "强奸乱伦", "三级伦理","国产自拍","国产传媒","女优合集","国产乱伦","网曝门事件","绿帽淫妻","AV解说","国产探花"
    ] 
-  }, 
+  },
 { 
    "key": "lbapi9",
    "name": "🙈乐播源",
@@ -200,8 +200,6 @@
 
    ] 
   }, 
-
-
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_PushGuard","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"Bili","name":"🅱哔哔合集┃弹幕","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
 "searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"}},
