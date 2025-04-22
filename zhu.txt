@@ -1,8 +1,4 @@
 
-//      >>> 当前时间是：2025-04-14 10:47:41 <<<
-//  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
-//  当前接口：http://tvbox.xn--4kq62z5rby2qupq9ub.top/
-
 {
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744383359519/wex.txt;md5;ddddbf25aab88866c674f04d226f279c",
 "wallpaper":"https://牛逼.王二小放牛娃.xyz/","logo":"https://s1.imagehub.cc/images/2025/04/22/efc9fc078eab23e8f4babfc3e4bc6230.gif",
