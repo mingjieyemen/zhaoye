@@ -1,8 +1,8 @@
 {
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744303415778/f0411.txt;md5;2c6500c44ee7e7b915f8c0afb0723e50",
-"wallpaper":"https://深色壁纸.xxooo.cf/","warningText":"❤祝海英胖子开心快乐❤",
+"wallpaper":"https://深色壁纸.xxooo.cf/","warningText":"❤祝五景海英白头到老❤",
 "sites":[
-{"key":"豆","name":"👒┃豆瓣┃推荐┃❤海英妹妹开心❤","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"豆","name":"👒┃海英┃专用┃❤海英妹妹开心❤","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},
 {"key":"YGP","name":"🚀叨观荐影┃预告片","type":3,"api":"csp_YGPGuard","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"alllive","name":"📽️一直播┃直播","type":3,"api":"csp_AllliveGuard","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
@@ -92,20 +92,6 @@
     ]
  }, 
 { 
-   "key": "aosikazy", 
-   "name": "🦃奥斯卡",
-   "type": 1, 
-   "api": "https://aosikazy.com/api.php/provide/vod", 
-   "searchable": 1, 
-   "quickSearch": 1, 
-   "filterable": 1, 
-   "playurl": "", 
-   "categories": [
-   "国产视频", "中文字幕", "国产传媒", "日本有码", "日本无码", "欧美无码", "强奸乱伦", "制服诱惑", "国产主播","激情动漫","明星换脸","抖阴视频","女优明星","视频一区","视频二区","网曝黑料","视频三区","伦理三级","AV解说","SM调教","萝莉少女","极品媚黑","女同性恋","网红头条","视频四区","人妖系列","韩国主播","VR视角"
-    ]
- }, 
-
-  { 
    "key": "meowtv_nxx",
    "name": "🍓奶香香",
    "type": 1, 
@@ -149,12 +135,11 @@
 ],
 "logo":"https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
 "lives":[
-{ "name": "午景", "type": 0, "url": "https://14479.kstore.space/%E5%B0%8F%E5%A4%A9%E4%BD%BF.txt","playerType": 1},
+{ "name": "胖子", "type": 0, "url": "https://14479.kstore.space/%E5%B0%8F%E5%A4%A9%E4%BD%BF.txt","playerType": 1},
 {  "name": "海英", "type": 0, "url": "http://8.138.7.223/live.txt","ua": "okhttp/3.15", "playerType": 2},
-  { "name": "夫妻", "type": 0, "url": "http://rihou.cc:555/gggg.nzk",  "ua": "okhttp/3.15","playerType": 4}, 
+  { "name": "幸福", "type": 0, "url": "http://rihou.cc:555/gggg.nzk",  "ua": "okhttp/3.15","playerType": 4}, 
   { "name": "恩爱", "type": 0, "url": "https://live.iptv365.org/live.txt", "ua": "okhttp/3.15","playerType": 5}, 
-{"name":"我的祝福","type":0,"url":"http://43.143.150.131:20830/tvbox/iptv.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"白头","type":0,"url":"https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"白头","type":0,"url":"https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}，
 {"name":"偕老","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
 {"name":"生活","type":0,"url":"https://gh-proxy.net/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
 {"name":"甜蜜","type":0,"url":"https://gh-proxy.net/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":2},
