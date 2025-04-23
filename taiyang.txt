@@ -1,10 +1,11 @@
 {
   "sites": [
 {
-      "key": "csp_DouDouGuard",
-      "name": "白嫖需要什么自行车?",
+      "key": "Dou",
+      "name": "乱七八糟",
       "type": 3,
-      "api": "csp_Kunyu77",
+      "api": "csp_DouDouGuard",
+      "indexs":1,
       "searchable": 0,
       "quickSearch": 0,
       "changeable":0
@@ -1127,6 +1128,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://tool.weetai.cn/api/images/05.png",
-  "spider":"https://raw.githubusercontent.com/lllyin/assets/master/影视.png""logo":"https://s1.imagehub.cc/images/2025/04/22/efc9fc078eab23e8f4babfc3e4bc6230.gif"
-
+  "spider":"https://raw.githubusercontent.com/lllyin/assets/master/影视.png"
 }
