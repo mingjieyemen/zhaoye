@@ -1,14 +1,13 @@
 {
   "sites": [
 {
-      "key": "Dou",
-      "name": "乱七八糟",
+      "key": "csp_Kunyu77",
+      "name": "白嫖需要什么自行车?",
       "type": 3,
-      "api": "csp_DouDouGuard",
-      "indexs":1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable":0
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
 {
       "key": "❤猫咪资源",
