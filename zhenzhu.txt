@@ -3,7 +3,7 @@
 "spider":"https://tv.菜妮丝.top/jar/fty0731.jar;md5;2452e3a72453e1e2305e9b66eae38fe5","logo":"https://q2.qlogo.cn/headimg_dl?dst_uin=524187805&spec=100",
 "wallpaper":"https://api.hanximeng.com/ranimg/?size=m",
 "sites":[
-{"key":"豆瓣","name":"老赵爱老伴","type":3,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
+{"key":"豆瓣","name":"豆瓣┃推荐","type":3,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
 {"key":"荐片","name":"荐片┃P2P","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"timeout":15,"ext":"https://tv.菜妮丝.top/json/jianpian.json","jar":"https://tv.菜妮丝.top/jar/fm0706.jar;md5;eaaa2de0f1e4946be155e3130ef4fdf3"},
 {"key":"Local","name":"本地┃文件","type":3,"api":"csp_Local","searchable":0,"changeable":0,"jar":"https://tv.菜妮丝.top/jar/fm0706.jar;md5;eaaa2de0f1e4946be155e3130ef4fdf3"},
 {"key":"白白","name":"白白┃秒播","type":3,"api":"csp_SbaibaiGuard","searchable":1,"changeable":1,"timeout":15},
