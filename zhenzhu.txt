@@ -1,7 +1,7 @@
 
 {
-"spider":"https://tv.菜妮丝.top/jar/fty0731.jar;md5;2452e3a72453e1e2305e9b66eae38fe5","logo":"https://q2.qlogo.cn/headimg_dl?dst_uin=524187805&spec=100",
-"wallpaper":"https://api.hanximeng.com/ranimg/?size=m",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1753445349681/PandaQ0725.jpg;md5;4bb05945b726cf06209fb3b562f6aa83",
+"wallpaper":"http:/ppic/feimao.php","logo":"https://6296.kstore.vip/9c633894549b4d2677774e402cedf6e819462bf1-min.gif",
 "sites":[
 {"key":"豆瓣","name":"豆瓣┃推荐","type":3,"api":"csp_DouDouGuard","searchable":0,"changeable":0},
 {"key":"荐片","name":"荐片┃P2P","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"timeout":15,"ext":"https://tv.菜妮丝.top/json/jianpian.json","jar":"https://tv.菜妮丝.top/jar/fm0706.jar;md5;eaaa2de0f1e4946be155e3130ef4fdf3"},
