@@ -2,7 +2,7 @@
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1753445349681/PandaQ0725.jpg;md5;4bb05945b726cf06209fb3b562f6aa83",
 "wallpaper":"http:/ppic/feimao.php","logo":"https://6296.kstore.vip/9c633894549b4d2677774e402cedf6e819462bf1-min.gif",
 "sites":[
-{"key":"豆瓣","name":"🐼珍珠婚纪念🐼","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣","name":"🐼┃2025年┃珍珠婚快乐","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣预告","name":"🐼┃豆瓣┃预告","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
 {"key":"config","name":"🐼┃配置┃中心","type":3,"api":"csp_Config","playerType":2},
 {"key":"csp_FeiMaoUC","name":"⚡┃闪电┃优汐","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://1.95.79.193/"],"url_key":"FeiMaoUC"}},
@@ -72,12 +72,7 @@
 "style":{"type":"rect","ratio":1.333}},
 {"key":"csp_高中","name":"📚┃高中┃课堂","type":3,"api":"csp_Bili","playerType":2,"ext":{"json":"https://img2.gelonghui.com/library/e44b3-4a82ab48-e014-49b2-bb66-ee5207e8f195null","cookie":""},
 "style":{"type":"rect","ratio":1.333}},
-{"key":"push_agent","name":"估计老伴不会下滑看到","type":3,"api":"csp_Push","playerType":"1","searchable":0,"ext":".json/txt/ken.txt"},
-{"key":"公告","name":"所以我很想对你说几句话","type":3,"api":"csp_Push","playerType":"1","searchable":0,"ext":".json/txt/ken.txt"},
-{"key":"说明1","name":"嫁给我没有享过太多的福","type":3,"api":"csp_Push","playerType":"1","searchable":0,"ext":".json/txt/ken.txt"},
-{"key":"说明2","name":"无怨无悔的照顾家里一切","type":3,"api":"csp_Push","playerType":"1","searchable":0,"ext":".json/txt/ken.txt"},
-{"key":"说明3","name":"感恩这辈子能拥有你陪伴","type":3,"api":"csp_Push","playerType":"1","searchable":0,"ext":".json/txt/ken.txt"},
-{"key":"说明4","name":"希望来世白首偕老还是你","type":3,"api":"csp_Push","playerType":"1","searchable":0,"ext":".json/txt/ken.txt"}
+{"key":"push_agent","name":"关注公众号：肥猫宝贝","type":3,"api":"csp_Push","playerType":"1","searchable":0,"ext":".json/txt/ken.txt"}
 ]，
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
