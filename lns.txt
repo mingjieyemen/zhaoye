@@ -58,10 +58,10 @@
 {"key":"360影视","name":"360┃解析","type":3,"api":"csp_SP360","searchable":1,"changeable":1,"jar":"https://tv.菜妮丝.top/jar/xyq0729.jar;md5;705ba6e23c4384c37a11dd904727520b"},
 {"key":"非凡","name":"非凡┃影视","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"push_agent","name":"推送┃链接","type":3,"api":"csp_Push","searchable":0,"changeable":0,"jar":"https://tv.菜妮丝.top/jar/fm0706.jar;md5;eaaa2de0f1e4946be155e3130ef4fdf3"},
-{"key":"公告","name":"——————————","type":3,"api":"csp_XPath","searchable":0,"changeable":0},
-{"key":"说明1","name":"https://菜妮丝.top","type":3,"api":"csp_XPath","searchable":0,"changeable":0},
-{"key":"说明2","name":"免费接口更新维护","type":3,"api":"csp_XPath","searchable":0,"changeable":0},
-{"key":"说明3","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable":0,"changeable":0}
+{"key":"公告","name":"珍珠婚快乐","type":3,"api":"csp_XPath","searchable":0,"changeable":0},
+{"key":"说明1","name":"https://爷们.top","type":3,"api":"csp_XPath","searchable":0,"changeable":0},
+{"key":"说明2","name":"爱情不褪色30年","type":3,"api":"csp_XPath","searchable":0,"changeable":0},
+{"key":"说明3","name":"请相信真爱就在你身边","type":3,"api":"csp_XPath","searchable":0,"changeable":0}
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Web"},
@@ -90,4 +90,5 @@
 {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
 ],
 "ads":["mozai.4gtv.tv"]
+
 }
