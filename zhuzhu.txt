@@ -1,9 +1,9 @@
 {
-"spider":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/2873EE0_773_wex_20251022150319875newMediaImage.png;md5;0a002e26ea6b9510a5d1a52511c10075",
+"spider":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/44F3D12_773_wex_20251116022852108newMediaImage.png;md5;96b3222e24cfb3d9a43a007b3e52f1c1",
 "wallpaper":"http://王二小放牛娃牛逼.999888987.xyz","logo":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
 "sites":[
 {"key":"Douban","name":"🐷【大猪小猪手拉手】🐮","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"},
-{"key":"Doubana","name":"🐮【更新日期:20251021】🐮","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"},
+{"key":"Doubana","name":"🐮【更新日期:20251116】🐮","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"},
 {"key":"Doubana","name":"⬇️【网盘类先扫码】⬇️","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"},
 {"key":"Wexconfig","name":"🐮通用类型┃配置中心🐮","type":3,"api":"csp_WexconfigGuard","searchable":0,"changeable":0,"indexs":0},
 {"key":"Wexokconfig","name":"🐮影视专用┃配置中心🐮","type":3,"api":"csp_WexokconfigGuard","searchable":0,"changeable":0,"indexs":0},
@@ -21,7 +21,6 @@
 {"key":"盘他","name":"💓‍盘他┃4K💓‍","type":3,"api":"csp_WexYDpantaGuard","searchable":1,"changeable":1},
 {"key":"雷鲸","name":"💓‍雷鲸┃4K💓‍","type":3,"api":"csp_WexleijingGuard","searchable":1,"changeable":1},
 {"key":"Wexpan123ziyuanGuard","name":"💓123┃4K💓","type":3,"api":"csp_Wexpan123ziyuanGuard","searchable":1,"changeable":1},
-{"key":"WexydbixinGuard","name":"💓比心┃YD💓","type":3,"api":"csp_WexydbixinGuard","searchable":1,"changeable":1},
 {"key":"Wexhanxiaoquan","name":"💥韩剧┃秒播💥","type":3,"api":"csp_WexhanxiaoquanGuard","searchable":1,"changeable":1},
 {"key":"Wexrenrenyingshi","name":"💥人人┃秒播💥","type":3,"api":"csp_WexrenrenyingshiGuard","searchable":1,"changeable":1},
 {"key":"賤賤","name":"💥賤片┃p2p💥","type":3,"api":"csp_WexJianpianGuard","searchable":1,"changeable":1},
@@ -40,12 +39,10 @@
 {"key":"WexNewHuYa","name":"🐯‍虎牙┃直播🐯‍","type":3,"api":"csp_WexNewHuYaGuard","searchable":1,"changeable":1},
 {"key":"WexNewDouYu","name":"🐳斗鱼┃直播🐳","type":3,"api":"csp_WexNewDouYuGuard","searchable":1,"changeable":1},
 {"key":"WexNewBiLiLive","name":"🅱️哔哩┃直播🅱️","type":3,"api":"csp_WexNewBiLiLiveGuard","searchable":1,"changeable":1},
-{"key":"Wexduanjuquark","name":"🍉短剧┃夸克🍉","type":3,"api":"csp_WexduanjuquarkGuard","searchable":1,"changeable":1,"style":{"type":"list"}},
-{"key":"Wexduanjuvip","name":"🍉短剧┃免费🍉","type":3,"api":"csp_WexduanjuvipGuard","searchable":1,"changeable":1},
 {"key":"Wexduanjuvop","name":"🍉短剧┃秒播🍉","type":3,"api":"csp_WexduanjuvopGuard","searchable":1,"changeable":1},
+{"key":"Wexduanjusuipian","name":"🍉短剧┃速播🍉","type":3,"api":"csp_WexduanjusuipianGuard","searchable":1,"changeable":1},
 {"key":"Wexduanjuhema","name":"🍉短剧┃仙品🍉","type":3,"api":"csp_WexduanjuhemaGuard","searchable":1,"changeable":1},
 {"key":"Wexduanju001","name":"🍉短剧┃神品🍉","type":3,"api":"csp_Wexduanju001Guard","searchable":1,"changeable":1},
-{"key":"WexduanjuvmpGuard","name":"🍉短剧┃帝品🍉","type":3,"api":"csp_WexduanjuvmpGuard","searchable":1,"changeable":1},
 {"key":"Wexlaobaitingshu","name":"🎃‍白兔┃听书🎃","type":3,"api":"csp_WexlaobaitingshuGuard","searchable":1,"changeable":1},
 {"key":"Wex275tingshu","name":"🎃‍极品┃听书🎃","type":3,"api":"csp_Wex275tingshuGuard","searchable":1,"changeable":1},
 {"key":"Wexliyuan","name":"🎎戏曲┃秒播🎎","type":3,"api":"csp_WexliyuanGuard","searchable":1,"changeable":0,"style":{"type":"rect","ratio":2}},
@@ -121,6 +118,9 @@
 {"name":"夜市點擊","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
 {"name":"毛驢點擊","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]}
 ],
-"ads":["mozai.4gtv.tv","pv.vipwm.cc"],
+"ads":["mozai.4gtv.tv","pv.vipwm.cc","static-mozai.4gtv.tv"],
 "lives":[
-{"name":"范明明","type":0,"url":"https://live.fanmingming.cn/tv/m3u/ipv6.m3u","playerType":1}]}
+{"name":"冰茶","type":0,"playerType":2,"url":"https://bc.188766.xyz/?ip=&json=true","ua":"bingcha/1.1(mianfeifenxiang)"}
+],
+"headers":[{"host":"hlsztemgsplive.miguvideo.com","header":{"User-Agent":"bingcha/1.1(mianfeifenxiang)"}}]}
+
